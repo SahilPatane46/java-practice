@@ -1,4 +1,4 @@
-class check{
+class calculatorSwitch{
 	public static void main(String[] args) {
 		int a = 10;
 		int b = 20;
@@ -18,7 +18,7 @@ class check{
 		System.out.println("Division is : "+ (a/b));
 		}break;
 	    default :{
-	    System.out.println("default"); 
+	    System.out.println("default");
 	    }break;
 	    }
     }
