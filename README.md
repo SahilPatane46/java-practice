@@ -1,45 +1,35 @@
-Java Practice Repository
+# Java Practice Repository
 
-Welcome to the Java Practice Repository! 🚀 This repository contains various Java programs for learning and practicing core Java concepts.
+Welcome to the **Java Practice Repository!** 🚀 This repository contains various Java programs for learning and practicing core Java concepts.
 
-📌 Topics Covered
+## 📌 Topics Covered
+- **Basic Syntax** (Variables, Data Types, Operators)
+- **Control Statements** (If-Else, Switch, Loops)
+- **Functions & Methods**
+- **Object-Oriented Programming (OOP)** (Classes, Objects, Inheritance, Polymorphism, Abstraction, Encapsulation)
+- **Exception Handling**
+- **Collections Framework** (ArrayList, HashMap, HashSet, etc.)
+- **File Handling**
+- **Multithreading**
+- **Java 8 Features** (Lambdas, Streams, Functional Interfaces)
 
-Basic Syntax (Variables, Data Types, Operators)
-
-Control Statements (If-Else, Switch, Loops)
-
-Functions & Methods
-
-Object-Oriented Programming (OOP) (Classes, Objects, Inheritance, Polymorphism, Abstraction, Encapsulation)
-
-Exception Handling
-
-Collections Framework (ArrayList, HashMap, HashSet, etc.)
-
-File Handling
-
-Multithreading
-
-Java 8 Features (Lambdas, Streams, Functional Interfaces)
-
-🛠 How to Use
-
-Clone the Repository
-
+## 🛠 How to Use
+### Clone the Repository
+```sh
 git clone https://github.com/your-username/java-practice.git
 cd java-practice
+```
 
-Run Java Programs
+### Run Java Programs
+1. Ensure you have **Java JDK** installed.
+2. Compile and run a Java file using:
+   ```sh
+   javac FileName.java
+   java FileName
+   ```
 
-Ensure you have Java JDK installed.
-
-Compile and run a Java file using:
-
-javac FileName.java
-java FileName
-
-📂 Repository Structure
-
+## 📂 Repository Structure
+```
 📁 java-practice
 │── 📁 basics
 │   ├── HelloWorld.java
@@ -51,14 +41,15 @@ java FileName
 │   ├── ClassAndObject.java
 │   ├── InheritanceDemo.java
 │── README.md
+```
 
-🤝 Contributing
+## 🤝 Contributing
+Feel free to **fork** this repository, add your own Java programs, and submit a **pull request**! Contributions are welcome. 😊
 
-Feel free to fork this repository, add your own Java programs, and submit a pull request! Contributions are welcome. 😊
+## 📜 License
+This project is **open-source** under the MIT License.
 
-📜 License
-
-This project is open-source under the MIT License.
+---
 
 Happy Coding! 🚀
 
