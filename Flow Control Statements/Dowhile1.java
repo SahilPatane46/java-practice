@@ -11,7 +11,6 @@ class Dowhile1 {
         }
         while (a <= 10);
         --a;
-
         System.out.println();
 
         System.out.print("Reverse order  : ");
